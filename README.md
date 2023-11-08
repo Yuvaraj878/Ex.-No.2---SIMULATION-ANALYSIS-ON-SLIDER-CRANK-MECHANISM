@@ -43,6 +43,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![275326739-b594990f-c4d1-4e7f-9635-363eee18635f](https://github.com/Yuvaraj878/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118622554/4c828377-a3dc-4e2d-a1e0-f597d30bd4b1)
 
 
 ### Name: YUVARAJ.S
